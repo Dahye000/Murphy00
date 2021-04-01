@@ -6,6 +6,8 @@ public class sum {
 		int i = 1; int sum = 0; 
 		for(i = 1; i<=100; i++) {
 			sum += i;
+		//중간값 확인
+		System.out.println(sum);
 		}
 		System.out.println(sum);
 		
